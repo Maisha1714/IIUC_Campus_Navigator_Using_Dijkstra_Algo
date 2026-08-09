@@ -1,4 +1,5 @@
 # IIUC Campus Navigator — Dijkstra's Shortest Path
+<img width="1600" height="894" alt="image" src="https://github.com/user-attachments/assets/00ac8d2f-2724-443d-b836-37cdbb1209af" />
 
 A campus navigation web app for **International Islamic University Chittagong (IIUC)**,
 Kumira. Pick a "From" and "To" location, and the app computes the shortest
