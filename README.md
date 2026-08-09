@@ -125,15 +125,3 @@ is exactly what the frontend replays to animate the algorithm.
 - The route is drawn in gold; the sidebar "Algorithm Trace" panel replays
   each step of Dijkstra's execution as a readable log, and markers light up
   as they're visited on the map — in real time, at adjustable speed.
-
----
-
-## Ideas to extend it
-
-- Add building floor plans / indoor routing for multi-story buildings.
-- Weight edges by *time* instead of distance (e.g. stairs vs. flat path).
-- Add an "avoid crowded areas" toggle that inflates certain edge weights.
-- Compare Dijkstra vs. A* (using straight-line distance as a heuristic) on
-  the same graph, side by side.
-- Deploy the backend (Render/Railway) and frontend (GitHub Pages/Netlify)
-  so classmates can actually use it.
